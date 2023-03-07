@@ -1,2 +1,1 @@
-# LFK2
- v2 of keyboard project
+# LFN 65 v1.2
