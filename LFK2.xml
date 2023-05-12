@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\light\OneDrive\Documents\GitHub\LFK1\LFK1.kicad_sch</source>
-    <date>2/21/2023 4:44:40 PM</date>
+    <source>C:\Users\light\OneDrive\Documents\GitHub\LFK2\LFK2.kicad_sch</source>
+    <date>5/11/2023 10:45:14 PM</date>
     <tool>Eeschema (6.0.10)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>LFK1.kicad_sch</source>
+        <source>LFK2.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -44,73 +44,73 @@
   <components>
     <comp ref="C1">
       <value>22p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e9c21b76-b2f5-4dd9-b540-588e0a6a8a3d</tstamps>
     </comp>
     <comp ref="C2">
       <value>22p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c030f918-5a0f-4543-bf13-b127fdd8c5a2</tstamps>
     </comp>
     <comp ref="C3">
       <value>1u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3d12ed1a-eeab-483a-b689-8bda55e92fc3</tstamps>
     </comp>
     <comp ref="C4">
       <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>29a715ce-be66-4c11-bd1a-2950b0c010d7</tstamps>
     </comp>
     <comp ref="C5">
       <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>452b09e0-4d7c-46e4-8351-09cef9d175b0</tstamps>
     </comp>
     <comp ref="C6">
       <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8c560cfc-7659-43c7-8e63-9665651b509b</tstamps>
     </comp>
     <comp ref="C7">
       <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>97a65afe-1a40-45c3-8ce0-610738ed9a06</tstamps>
     </comp>
     <comp ref="C8">
       <value>10u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>67d0ba3d-dbf9-447b-abe6-a71e8a0f11e5</tstamps>
     </comp>
@@ -119,7 +119,7 @@
       <footprint>Fuse:Fuse_1206_3216Metric</footprint>
       <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>adefa4cb-25d6-49ec-8a35-7de846e508e1</tstamps>
     </comp>
@@ -128,7 +128,7 @@
       <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
       <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>51da023e-8ffa-4a25-ba67-59d0c5840119</tstamps>
     </comp>
@@ -138,61 +138,61 @@
       <datasheet> ~</datasheet>
       <libsource lib="Connector" part="AVR-ISP-6" description="Atmel 6-pin ISP connector"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2e2641ac-10fa-49ec-a8b7-e0fc22a6da60</tstamps>
     </comp>
     <comp ref="R1">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3765e45a-9f1d-4cae-805e-320f859ddcac</tstamps>
     </comp>
     <comp ref="R2">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bf3efe9c-c510-4bb9-866c-40aa8118e9b6</tstamps>
     </comp>
     <comp ref="R3">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dbe96627-6a09-447b-9415-6200b9308ca6</tstamps>
     </comp>
     <comp ref="R4">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2bf873e5-6490-4304-a3be-d5a53e47faad</tstamps>
     </comp>
     <comp ref="R5">
       <value>5.1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cfe53b80-e710-4c04-a03d-4e757032eb32</tstamps>
     </comp>
     <comp ref="R6">
       <value>5.1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>65f3a5ff-1c48-407a-af85-12a56aa59f33</tstamps>
     </comp>
@@ -201,7 +201,7 @@
       <footprint>Button_Switch_SMD:SW_SPST_SKQG_WithStem</footprint>
       <libsource lib="SW_SK" part="SW_SKQG" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0532b1bb-89cb-461c-ac2e-8086df8ac37a</tstamps>
     </comp>
@@ -211,7 +211,7 @@
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
       <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-M" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1a4f963a-36aa-43df-b949-615e9d18f3b4</tstamps>
     </comp>
@@ -220,7 +220,7 @@
       <footprint>random-keyboard-parts:SOT143B</footprint>
       <libsource lib="random-keyboard-parts" part="PRTR5V0U2X" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00251a83-e18a-4bff-b218-cd88da5ae4da</tstamps>
     </comp>
@@ -229,7 +229,7 @@
       <footprint>Type-C:HRO-TYPE-C-31-M-12-Assembly</footprint>
       <libsource lib="Type-C" part="HRO-TYPE-C-31-M-12" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3a61fbb2-3e55-4359-aadd-01202bc896de</tstamps>
     </comp>
@@ -238,7 +238,7 @@
       <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="LFK1.kicad_sch"/>
+      <property name="Sheetfile" value="LFK2.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f9a183ad-848f-4597-bfbf-a623f5407b7b</tstamps>
     </comp>
@@ -829,7 +829,7 @@
     </comp>
     <comp ref="SW1">
       <value>`~</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -838,7 +838,7 @@
     </comp>
     <comp ref="SW2">
       <value>1</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -847,7 +847,7 @@
     </comp>
     <comp ref="SW3">
       <value>2</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -856,7 +856,7 @@
     </comp>
     <comp ref="SW4">
       <value>3</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -865,7 +865,7 @@
     </comp>
     <comp ref="SW5">
       <value>4</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -874,7 +874,7 @@
     </comp>
     <comp ref="SW6">
       <value>5</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -883,7 +883,7 @@
     </comp>
     <comp ref="SW7">
       <value>6</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -892,7 +892,7 @@
     </comp>
     <comp ref="SW8">
       <value>7</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -901,7 +901,7 @@
     </comp>
     <comp ref="SW9">
       <value>8</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -910,7 +910,7 @@
     </comp>
     <comp ref="SW10">
       <value>9</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -919,7 +919,7 @@
     </comp>
     <comp ref="SW11">
       <value>0</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -928,7 +928,7 @@
     </comp>
     <comp ref="SW12">
       <value>-_</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -937,7 +937,7 @@
     </comp>
     <comp ref="SW13">
       <value>=+</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -946,7 +946,7 @@
     </comp>
     <comp ref="SW14">
       <value>BKSPC</value>
-      <footprint>MX_Only:MXOnly-2U</footprint>
+      <footprint>MX_Only:MXOnly-2U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -955,7 +955,7 @@
     </comp>
     <comp ref="SW15">
       <value>DEL</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -964,7 +964,7 @@
     </comp>
     <comp ref="SW16">
       <value>TAB</value>
-      <footprint>MX_Only:MXOnly-1.5U</footprint>
+      <footprint>MX_Only:MXOnly-1.5U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -973,7 +973,7 @@
     </comp>
     <comp ref="SW17">
       <value>Q</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -982,7 +982,7 @@
     </comp>
     <comp ref="SW18">
       <value>W</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -991,7 +991,7 @@
     </comp>
     <comp ref="SW19">
       <value>E</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1000,7 +1000,7 @@
     </comp>
     <comp ref="SW20">
       <value>R</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1009,7 +1009,7 @@
     </comp>
     <comp ref="SW21">
       <value>T</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1018,7 +1018,7 @@
     </comp>
     <comp ref="SW22">
       <value>Y</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1027,7 +1027,7 @@
     </comp>
     <comp ref="SW23">
       <value>U</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1036,7 +1036,7 @@
     </comp>
     <comp ref="SW24">
       <value>I</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1045,7 +1045,7 @@
     </comp>
     <comp ref="SW25">
       <value>O</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1054,7 +1054,7 @@
     </comp>
     <comp ref="SW26">
       <value>P</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1063,7 +1063,7 @@
     </comp>
     <comp ref="SW27">
       <value>[{</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1072,7 +1072,7 @@
     </comp>
     <comp ref="SW28">
       <value>]}</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1081,7 +1081,7 @@
     </comp>
     <comp ref="SW29">
       <value>\|</value>
-      <footprint>MX_Only:MXOnly-1.5U</footprint>
+      <footprint>MX_Only:MXOnly-1.5U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1090,7 +1090,7 @@
     </comp>
     <comp ref="SW30">
       <value>HOME</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1099,7 +1099,7 @@
     </comp>
     <comp ref="SW31">
       <value>CAPS</value>
-      <footprint>MX_Only:MXOnly-1.75U</footprint>
+      <footprint>MX_Only:MXOnly-1.75U-Hotswap-Double</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1108,7 +1108,7 @@
     </comp>
     <comp ref="SW32">
       <value>A</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1117,7 +1117,7 @@
     </comp>
     <comp ref="SW33">
       <value>S</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1126,7 +1126,7 @@
     </comp>
     <comp ref="SW34">
       <value>D</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1135,7 +1135,7 @@
     </comp>
     <comp ref="SW35">
       <value>F</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1144,7 +1144,7 @@
     </comp>
     <comp ref="SW36">
       <value>G</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1153,7 +1153,7 @@
     </comp>
     <comp ref="SW37">
       <value>H</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1162,7 +1162,7 @@
     </comp>
     <comp ref="SW38">
       <value>J</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1171,7 +1171,7 @@
     </comp>
     <comp ref="SW39">
       <value>K</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1180,7 +1180,7 @@
     </comp>
     <comp ref="SW40">
       <value>L</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1189,7 +1189,7 @@
     </comp>
     <comp ref="SW41">
       <value>;:</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1198,7 +1198,7 @@
     </comp>
     <comp ref="SW42">
       <value>'"</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1207,7 +1207,7 @@
     </comp>
     <comp ref="SW43">
       <value>ENTER</value>
-      <footprint>MX_Only:MXOnly-2.25U</footprint>
+      <footprint>MX_Only:MXOnly-2.25U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1216,7 +1216,7 @@
     </comp>
     <comp ref="SW44">
       <value>LSHIFT</value>
-      <footprint>MX_Only:MXOnly-2.25U</footprint>
+      <footprint>MX_Only:MXOnly-2.25U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1225,7 +1225,7 @@
     </comp>
     <comp ref="SW45">
       <value>Z</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1234,7 +1234,7 @@
     </comp>
     <comp ref="SW46">
       <value>X</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1243,7 +1243,7 @@
     </comp>
     <comp ref="SW47">
       <value>C</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1252,7 +1252,7 @@
     </comp>
     <comp ref="SW48">
       <value>V</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1261,7 +1261,7 @@
     </comp>
     <comp ref="SW49">
       <value>B</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1270,7 +1270,7 @@
     </comp>
     <comp ref="SW50">
       <value>N</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1279,7 +1279,7 @@
     </comp>
     <comp ref="SW51">
       <value>M</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1288,7 +1288,7 @@
     </comp>
     <comp ref="SW52">
       <value>,&lt;</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1297,7 +1297,7 @@
     </comp>
     <comp ref="SW53">
       <value>.&gt;</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1306,7 +1306,7 @@
     </comp>
     <comp ref="SW54">
       <value>/?</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1315,7 +1315,7 @@
     </comp>
     <comp ref="SW55">
       <value>RSHIFT</value>
-      <footprint>MX_Only:MXOnly-1.75U</footprint>
+      <footprint>MX_Only:MXOnly-1.75U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1324,7 +1324,7 @@
     </comp>
     <comp ref="SW56">
       <value>UP</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1333,7 +1333,7 @@
     </comp>
     <comp ref="SW57">
       <value>LCTRL</value>
-      <footprint>MX_Only:MXOnly-1.25U</footprint>
+      <footprint>MX_Only:MXOnly-1.5U-Hotswap-Double</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1342,7 +1342,7 @@
     </comp>
     <comp ref="SW58">
       <value>LWIN</value>
-      <footprint>MX_Only:MXOnly-1.25U</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1351,7 +1351,7 @@
     </comp>
     <comp ref="SW59">
       <value>LALT</value>
-      <footprint>MX_Only:MXOnly-1.25U</footprint>
+      <footprint>MX_Only:MXOnly-1.5U-Hotswap-Double</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1360,7 +1360,7 @@
     </comp>
     <comp ref="SW60">
       <value>SPACE</value>
-      <footprint>MX_Only:MXOnly-6.25U-ReversedStabilizers</footprint>
+      <footprint>MX_Only:MXOnly-6.25U-Hotswap-RS-Double</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1369,7 +1369,7 @@
     </comp>
     <comp ref="SW61">
       <value>RALT</value>
-      <footprint>MX_Only:MXOnly-1.25U</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1378,7 +1378,7 @@
     </comp>
     <comp ref="SW62">
       <value>FN</value>
-      <footprint>MX_Only:MXOnly-1.25U</footprint>
+      <footprint>MX_Only:MXOnly-1.5U-Hotswap-Double</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1387,7 +1387,7 @@
     </comp>
     <comp ref="SW63">
       <value>LEFT</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1396,7 +1396,7 @@
     </comp>
     <comp ref="SW64">
       <value>DOWN</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1405,7 +1405,7 @@
     </comp>
     <comp ref="SW65">
       <value>RIGHT</value>
-      <footprint>MX_Only:MXOnly-1U</footprint>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1673,10 +1673,10 @@
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
     </library>
     <library logical="Type-C">
-      <uri>C:\Users\light\OneDrive\Documents\GitHub\LFK1/Type-C.pretty/Type-C.lib</uri>
+      <uri>C:\Users\light\OneDrive\Documents\GitHub\LFK2/Type-C.pretty/Type-C.lib</uri>
     </library>
     <library logical="random-keyboard-parts">
-      <uri>C:\Users\light\OneDrive\Documents\GitHub\LFK1/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib</uri>
+      <uri>C:\Users\light\OneDrive\Documents\GitHub\LFK2/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib</uri>
     </library>
   </libraries>
   <nets>
