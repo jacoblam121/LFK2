@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\light\OneDrive\Documents\GitHub\LFK2\LFK2.kicad_sch</source>
-    <date>5/11/2023 10:45:14 PM</date>
+    <date>5/22/2023 12:48:22 AM</date>
     <tool>Eeschema (6.0.10)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -107,7 +107,7 @@
     </comp>
     <comp ref="C8">
       <value>10u</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="LFK2.kicad_sch"/>
@@ -1099,7 +1099,7 @@
     </comp>
     <comp ref="SW31">
       <value>CAPS</value>
-      <footprint>MX_Only:MXOnly-1.75U-Hotswap-Double</footprint>
+      <footprint>MX_Only:MXOnly-1.75U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1333,7 +1333,7 @@
     </comp>
     <comp ref="SW57">
       <value>LCTRL</value>
-      <footprint>MX_Only:MXOnly-1.5U-Hotswap-Double</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1351,7 +1351,7 @@
     </comp>
     <comp ref="SW59">
       <value>LALT</value>
-      <footprint>MX_Only:MXOnly-1.5U-Hotswap-Double</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1360,7 +1360,7 @@
     </comp>
     <comp ref="SW60">
       <value>SPACE</value>
-      <footprint>MX_Only:MXOnly-6.25U-Hotswap-RS-Double</footprint>
+      <footprint>MX_Only:MXOnly-6.25U-Hotswap-ReversedStabilizers</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1378,7 +1378,7 @@
     </comp>
     <comp ref="SW62">
       <value>FN</value>
-      <footprint>MX_Only:MXOnly-1.5U-Hotswap-Double</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-Hotswap</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value="matrix"/>
       <property name="Sheetfile" value="matrix.kicad_sch"/>
@@ -1411,6 +1411,51 @@
       <property name="Sheetfile" value="matrix.kicad_sch"/>
       <sheetpath names="/matrix/" tstamps="/71755621-1f0d-4bdb-b18c-9e331608c358/"/>
       <tstamps>24ccc2c9-54ab-4695-ac02-993535c25e4b</tstamps>
+    </comp>
+    <comp ref="SW66">
+      <value>TLCTRL</value>
+      <footprint>MX_Only:MXOnly-1.5U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/matrix/" tstamps="/71755621-1f0d-4bdb-b18c-9e331608c358/"/>
+      <tstamps>afbd800a-3a79-47b3-bf5b-6beda33376ad</tstamps>
+    </comp>
+    <comp ref="SW67">
+      <value>TLALT</value>
+      <footprint>MX_Only:MXOnly-1.5U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/matrix/" tstamps="/71755621-1f0d-4bdb-b18c-9e331608c358/"/>
+      <tstamps>d54df4e0-7582-4caf-80dc-8f437f6a8239</tstamps>
+    </comp>
+    <comp ref="SW68">
+      <value>TSPACE</value>
+      <footprint>MX_Only:MXOnly-7U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/matrix/" tstamps="/71755621-1f0d-4bdb-b18c-9e331608c358/"/>
+      <tstamps>e3113938-6a06-4ab3-9501-20d95fe9c79a</tstamps>
+    </comp>
+    <comp ref="SW69">
+      <value>TRALT</value>
+      <footprint>MX_Only:MXOnly-1.5U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/matrix/" tstamps="/71755621-1f0d-4bdb-b18c-9e331608c358/"/>
+      <tstamps>e299acc2-1e4e-4322-8881-9e5de8dc6f16</tstamps>
+    </comp>
+    <comp ref="SW70">
+      <value>TLWIN</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/matrix/" tstamps="/71755621-1f0d-4bdb-b18c-9e331608c358/"/>
+      <tstamps>8a9ada7a-7ba1-48d3-a908-5ecf7ca6710c</tstamps>
     </comp>
   </components>
   <libparts>
@@ -1986,18 +2031,22 @@
     <net code="67" name="Net-(D57-Pad2)">
       <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="SW57" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW66" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="68" name="Net-(D58-Pad2)">
       <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="SW58" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW70" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="69" name="Net-(D59-Pad2)">
       <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="SW59" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW67" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="70" name="Net-(D60-Pad2)">
       <node ref="D60" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="SW60" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW68" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="71" name="Net-(D61-Pad2)">
       <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
@@ -2006,6 +2055,7 @@
     <net code="72" name="Net-(D62-Pad2)">
       <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="SW62" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW69" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="73" name="Net-(D63-Pad2)">
       <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
@@ -2063,6 +2113,7 @@
       <node ref="SW31" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW44" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW57" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW66" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="28" pinfunction="PB4" pintype="bidirectional"/>
     </net>
     <net code="85" name="col1">
@@ -2071,6 +2122,7 @@
       <node ref="SW32" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW45" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW58" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW70" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="29" pinfunction="PB5" pintype="bidirectional"/>
     </net>
     <net code="86" name="col2">
@@ -2079,6 +2131,7 @@
       <node ref="SW33" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW46" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW59" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW67" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="30" pinfunction="PB6" pintype="bidirectional"/>
     </net>
     <net code="87" name="col3">
@@ -2101,6 +2154,7 @@
       <node ref="SW49" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW60" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW68" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="37" pinfunction="PF6" pintype="bidirectional"/>
     </net>
     <net code="90" name="col6">
@@ -2144,6 +2198,7 @@
       <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW42" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="SW62" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW69" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="22" pinfunction="PD5" pintype="bidirectional"/>
     </net>
     <net code="96" name="col12">

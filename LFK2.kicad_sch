@@ -1779,10 +1779,10 @@
     (property "Datasheet" "" (id 3) (at 59.69 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3c811d3-b570-48a3-adaa-793740a27c94))
-    (pin "1" (uuid a3c811d3-b570-48a3-adaa-793740a27c94))
-    (pin "2" (uuid cf3b891f-c4a3-4430-bf3c-8c90b5f6711e))
-    (pin "2" (uuid cf3b891f-c4a3-4430-bf3c-8c90b5f6711e))
+    (pin "1" (uuid a3c811d3-b570-48a3-adaa-793740a27c97))
+    (pin "1" (uuid a3c811d3-b570-48a3-adaa-793740a27c97))
+    (pin "2" (uuid cf3b891f-c4a3-4430-bf3c-8c90b5f67121))
+    (pin "2" (uuid cf3b891f-c4a3-4430-bf3c-8c90b5f67121))
   )
 
   (symbol (lib_id "power:GND") (at 95.25 83.82 0) (unit 1)
@@ -3008,7 +3008,7 @@
       (reference "SW30") (unit 1) (value "HOME") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/71755621-1f0d-4bdb-b18c-9e331608c358/f5a2d154-7ff2-4153-bdfc-b94f1f8db68d"
-      (reference "SW31") (unit 1) (value "CAPS") (footprint "MX_Only:MXOnly-1.75U-Hotswap-Double")
+      (reference "SW31") (unit 1) (value "CAPS") (footprint "MX_Only:MXOnly-1.75U-Hotswap")
     )
     (path "/71755621-1f0d-4bdb-b18c-9e331608c358/31c98b08-49f1-4448-b96b-1e7288b6ded6"
       (reference "SW32") (unit 1) (value "A") (footprint "MX_Only:MXOnly-1U-Hotswap")
@@ -3086,22 +3086,22 @@
       (reference "SW56") (unit 1) (value "UP") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/71755621-1f0d-4bdb-b18c-9e331608c358/99830282-16e5-432e-abb1-cf5e175f8ddc"
-      (reference "SW57") (unit 1) (value "LCTRL") (footprint "MX_Only:MXOnly-1.5U-Hotswap-Double")
+      (reference "SW57") (unit 1) (value "LCTRL") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/71755621-1f0d-4bdb-b18c-9e331608c358/7fc9a2ae-c44a-4e72-8844-22b038a4878c"
       (reference "SW58") (unit 1) (value "LWIN") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/71755621-1f0d-4bdb-b18c-9e331608c358/093445d6-7c27-46e7-90ae-368afa028f3a"
-      (reference "SW59") (unit 1) (value "LALT") (footprint "MX_Only:MXOnly-1.5U-Hotswap-Double")
+      (reference "SW59") (unit 1) (value "LALT") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/71755621-1f0d-4bdb-b18c-9e331608c358/b5e525de-5ce3-4199-a0a6-b3b56fc56458"
-      (reference "SW60") (unit 1) (value "SPACE") (footprint "MX_Only:MXOnly-6.25U-Hotswap-RS-Double")
+      (reference "SW60") (unit 1) (value "SPACE") (footprint "MX_Only:MXOnly-6.25U-Hotswap-ReversedStabilizers")
     )
     (path "/71755621-1f0d-4bdb-b18c-9e331608c358/e5ffb86f-0639-4a1d-a04b-348d1932a7da"
       (reference "SW61") (unit 1) (value "RALT") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/71755621-1f0d-4bdb-b18c-9e331608c358/3ce4fb38-f5b2-4ecd-b20d-8b3c258ee8e5"
-      (reference "SW62") (unit 1) (value "FN") (footprint "MX_Only:MXOnly-1.5U-Hotswap-Double")
+      (reference "SW62") (unit 1) (value "FN") (footprint "MX_Only:MXOnly-1.25U-Hotswap")
     )
     (path "/71755621-1f0d-4bdb-b18c-9e331608c358/8ba328b9-ca0b-4e83-bb94-b678e5d3572b"
       (reference "SW63") (unit 1) (value "LEFT") (footprint "MX_Only:MXOnly-1U-Hotswap")
@@ -3111,6 +3111,21 @@
     )
     (path "/71755621-1f0d-4bdb-b18c-9e331608c358/24ccc2c9-54ab-4695-ac02-993535c25e4b"
       (reference "SW65") (unit 1) (value "RIGHT") (footprint "MX_Only:MXOnly-1U-Hotswap")
+    )
+    (path "/71755621-1f0d-4bdb-b18c-9e331608c358/afbd800a-3a79-47b3-bf5b-6beda33376ad"
+      (reference "SW66") (unit 1) (value "TLCTRL") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
+    )
+    (path "/71755621-1f0d-4bdb-b18c-9e331608c358/d54df4e0-7582-4caf-80dc-8f437f6a8239"
+      (reference "SW67") (unit 1) (value "TLALT") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
+    )
+    (path "/71755621-1f0d-4bdb-b18c-9e331608c358/e3113938-6a06-4ab3-9501-20d95fe9c79a"
+      (reference "SW68") (unit 1) (value "TSPACE") (footprint "MX_Only:MXOnly-7U-Hotswap")
+    )
+    (path "/71755621-1f0d-4bdb-b18c-9e331608c358/e299acc2-1e4e-4322-8881-9e5de8dc6f16"
+      (reference "SW69") (unit 1) (value "TRALT") (footprint "MX_Only:MXOnly-1.5U-Hotswap")
+    )
+    (path "/71755621-1f0d-4bdb-b18c-9e331608c358/8a9ada7a-7ba1-48d3-a908-5ecf7ca6710c"
+      (reference "SW70") (unit 1) (value "TLWIN") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/1a4f963a-36aa-43df-b949-615e9d18f3b4"
       (reference "U1") (unit 1) (value "ATmega32U4-M") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
