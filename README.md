@@ -1,4 +1,4 @@
-# LFN 65 v2.1.1
+# LFN 65 v2.1.1 (assembly)
 
 Hotswap Sockets
 
